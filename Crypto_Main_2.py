@@ -1,5 +1,5 @@
 # %% [code] {"datalore":{"node_id":"CPSZUCm8TRfQma38N7JcXZ","type":"CODE","hide_input_from_viewers":false,"hide_output_from_viewers":false,"report_properties":{"y":0}},"execution":{"iopub.status.busy":"2023-01-02T23:02:39.487545Z","iopub.execute_input":"2023-01-02T23:02:39.488284Z","iopub.status.idle":"2023-01-02T23:02:50.972552Z","shell.execute_reply.started":"2023-01-02T23:02:39.488246Z","shell.execute_reply":"2023-01-02T23:02:50.971334Z"}}
-#pip install yfinance
+pip install yfinance
 
 # %% [code] {"datalore":{"node_id":"FoatVDOrLGP6laGjnwlfnR","type":"CODE","hide_input_from_viewers":false,"hide_output_from_viewers":false,"report_properties":{"y":13}},"execution":{"iopub.status.busy":"2023-01-02T23:02:50.975465Z","iopub.execute_input":"2023-01-02T23:02:50.975850Z","iopub.status.idle":"2023-01-02T23:03:02.394709Z","shell.execute_reply.started":"2023-01-02T23:02:50.975802Z","shell.execute_reply":"2023-01-02T23:03:02.393590Z"}}
 #pip install yahooquery
