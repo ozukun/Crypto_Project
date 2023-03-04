@@ -1,6 +1,8 @@
 # Crypto_Project
 
-Aim of this project 
+Aim of this project :
+
+
   *get information about crypto pairs in weekly and monthly basis and calculate Bollinger bands & Change Intervals.
   *get information about crypto pairs daily basis to implement LTSM RNN prediction model.
 
