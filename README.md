@@ -14,3 +14,5 @@ Aim of this project :
 
   ![image](https://user-images.githubusercontent.com/42588650/209485685-3cd6162a-dcd6-4f5c-aa77-d120adc0076d.png)
 
+*crypto pairs - RNN
+  ![2Capture](https://user-images.githubusercontent.com/42588650/224579698-403de1f1-776c-4a4d-a8d8-877688e29b60.JPG)
